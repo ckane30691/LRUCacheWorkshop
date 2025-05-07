@@ -1,0 +1,12 @@
+{
+  "name": "lru-cache-workshop",
+  "version": "1.0.0",
+  "description": "Workshop to build an in-memory LRU Cache in JavaScript",
+  "main": "examples/demo.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/demo.js"
+  },
+  "author": "Cory Kane",
+  "license": "MIT"
+}
